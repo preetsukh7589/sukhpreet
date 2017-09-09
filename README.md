@@ -8,4 +8,4 @@ const courses = [
       console.table(courses);
       ```
       
-![table](https://user-images.githubusercontent.com/31782536/30235813-5d316fb2-94c2-11e7-86ad-1b536736ef1b.PNG)
+![table](https://user-images.githubusercontent.com/31782536/30236207-46c11f6e-94c9-11e7-8ee4-81a8edc539d8.PNG)
